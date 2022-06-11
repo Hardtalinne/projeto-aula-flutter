@@ -3,6 +3,6 @@
 Projeto desenvolvido na aula de desenvolvimento Mobile com Flutter, para fins didáticos.
 
 Visualização do App                                                                                                
-![tela inicial](lib/assets/tela1.png)
+<img alt="tela inicial" height="400" src="lib/assets/tela1.png" width="200"/>
 
-![tela inicial após clicar em calcular](lib/assets/tela2.png)
+<img alt="tela inicial após clicar em calcular" height="400" src="lib/assets/tela2.png" width="200"/>
